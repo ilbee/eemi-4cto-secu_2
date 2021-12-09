@@ -1,0 +1,2 @@
+<?php
+$file = 'rockyou.txt';
